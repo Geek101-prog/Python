@@ -11,7 +11,6 @@ while input('Would you like to add an product? If you want press Q ') == 'Q':
     specifications_1[item] = name_1
     specifications_1[value] = price_1
     specifications_1[amount] = number_1
-    # print(features_1)
     break
 while input('Would you like to add another one? If you want press Q ') == 'Q':
     specifications_2 = {}
